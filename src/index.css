@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap');
+
+*{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+body{
+    background:#0000001A;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.space{
+    min-height: 50px;
+}
+
+.content{
+        margin-top: 100px;
+        margin-left: 25%;
+    }
+ /*.header-image{
+           position: fixed;
+        }*/
+.top-back-array{
+            /*position: absolute;*/
+            top: 0px;
+            color: #ffffff;
+            width: 63px;
+            height: 31px;
+        }
+.content-bellow {
+    width: 375px;
+    height: 480px;
+    position: absolute;
+    top: 358px;
+    background-color: #ffffff;
+    color: #462681;
+    border-radius: 40px;
+}
+.name-style {
+    font-size: 39px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: absolute;
+}
+.name-div{
+          width: 325px;
+          height: 75px;
+        }
+.name-style{
+          font-size: 44px;
+        }
+.dot-style {
+    width: 26px;
+    height: 6px;
+    float: right;
+    margin-top: 41px;
+}
+.follow-icon {
+    margin-left: 25px;
+    margin-top: 80px;
+}
+.follow-text {
+    margin-top: -20px;
+    margin-left: 53px;
+    font-weight: 800;
+    font-size: 0.8em;
+}
+       .aro {
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 20px;
+}
+
+.aro2 {
+    margin-left: 49px;
+    position: absolute;
+    margin-top: 56px;
+}
+.line {
+    height: 1px;
+    background: #462681;
+    margin: 0px 20px;
+}
+.content0 {
+    padding: 10px 0px;
+    height: 75px
+}
+.pgroup {
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+.pgroup>span{
+font-size: 1.9em;
+font-weight: 800;
+}
+#cattext {
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.manuarrow {
+    right: 20px;
+    position: absolute;
+    margin: -42px 19px;
+}
+.submanue {
+    padding: 10px 24px;
+}
+p.manutext {
+    font-size: 21px;
+    font-weight: 400;
+}
+ul.textul {
+    list-style: none;
+    margin-left: -44px;
+}
+li {
+    float: left;
+    margin-left: 40px;
+}
